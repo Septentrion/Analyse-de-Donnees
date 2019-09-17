@@ -8,6 +8,8 @@
 
 ### Eléments de statistique descriptive
 
+### Eléments de statistique inférentielle
+
 ### Introduction aux probabilités
 
 ### Eléments de logique
@@ -17,6 +19,46 @@
 ## Ligne 2 : Outils méthodologiques
 
 ### Qu'est-ce qu'une donnée ?
+
+### Le processus d'analyse de données
+
+- Définition du problème
+- Collecte des données
+- Traitement des données pour analyse
+- Exploration des données
+- Analyse approfondie des données
+- Communiquer et présenter les données
+
+#### Pourquoi analyser les données ?
+
+Finalité | Mode
+--- | ---
+- Analyse exploratoire | - Analyse qualitative
+- Analyse prédictive | - Analye quantitative
+- Analyse descriptive
+
+
+### Collecter des données
+
+- Choisir des sources de données
+- Choisir la granularité des données
+-
+
+### Créer des modèles
+
+
+### Nettoyer / Valider les données
+
+- Complétude
+- Consitance / Cohérence
+- Unicité
+- Intégrité
+- Précision
+- Réduction de dimensionnalité
+
+### Utiliser des données ouvertes
+
+### Ethique des données
 
 ## Ligne 3 : Outils techniques
 
@@ -60,6 +102,8 @@
   - Jointures
 
 ### Introductions aux bases graphes
+
+### Hadoop, SPARK, ElasticSearch
 
 ## Visualisation
 
