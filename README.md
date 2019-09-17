@@ -4,7 +4,7 @@
 
 ### Fondements d'algèbre
 
-### Fondements de calucul matriciel
+### Fondements de calcul matriciel
 
 ### Eléments de statistique descriptive
 
