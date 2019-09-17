@@ -46,7 +46,7 @@
   - Quatrième forme normale
   - Autres formes normales
 
-### NoSQL : gérer des doculents structurés
+### NoSQL : gérer des documents structurés
 
 - A Représentation de documents structurés
   - Notion de document
