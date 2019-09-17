@@ -18,3 +18,11 @@
 ## ib Formation
 
 - [Formation Data Analyst](https://www.ib-formation.fr/catalogue/nbs-details/catref/universib-formations-informatiques-big-data-les-metiers-du-big-data/ref/cm061/cursus-data-analyst)
+
+## Le Big Data
+
+- [Compétences Data Scientist](https://www.lebigdata.fr/13-competences-necessaires-devenir-data-scientist)
+
+## Seton Hall University
+
+-[Processus d'analyse](https://www13.shu.edu/offices/technology/upload/Data-analysis-process.pdf)
