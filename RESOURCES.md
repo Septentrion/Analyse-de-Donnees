@@ -25,4 +25,12 @@
 
 ## Seton Hall University
 
--[Processus d'analyse](https://www13.shu.edu/offices/technology/upload/Data-analysis-process.pdf)
+- [Processus d'analyse](https://www13.shu.edu/offices/technology/upload/Data-analysis-process.pdf)
+
+## Le Wagon
+
+- [Matériel de cours](https://github.com/lewagon/data-kit)
+
+## Microsoft
+
+- [Data Analysis For Absolute Beginners](https://github.com/MicrosoftLearning/Data-Analysis-for-Absolute-Beginners)
