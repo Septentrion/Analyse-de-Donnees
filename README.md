@@ -42,12 +42,13 @@ Finalité | Mode
 
 - Choisir des sources de données
 - Choisir la granularité des données
--
+- Choisir des variables
+- Créer un modèle
+- Agéger des sources de données différentes
 
-### Créer des modèles
+### Traitement des données
 
-
-### Nettoyer / Valider les données
+#### Nettoyer / Valider les données
 
 - Complétude
 - Consitance / Cohérence
@@ -55,6 +56,42 @@ Finalité | Mode
 - Intégrité
 - Précision
 - Réduction de dimensionnalité
+
+### Exploration des données
+
+#### Représentation statistique des données
+
+- Catégorisation
+  - Fréqunces
+- Description
+  - moyenne
+  - écart-type
+  - minimum, maximum
+  - symétries
+
+#### Données manquantes
+
+- par variable
+- par échantillon
+
+#### Visualisation
+
+### Analyse des données
+
+#### Relations entre les variables
+
+- CHI<sup>2</sup>
+- Régression / Régression logistique
+- Corrélation
+
+#### Comparaison de groupes
+
+- Analyse multi-variée
+- Tests non paramétriques
+
+#### Classification
+
+### Communication
 
 ### Utiliser des données ouvertes
 
