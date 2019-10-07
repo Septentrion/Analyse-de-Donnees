@@ -34,3 +34,10 @@
 ## Microsoft
 
 - [Data Analysis For Absolute Beginners](https://github.com/MicrosoftLearning/Data-Analysis-for-Absolute-Beginners)
+
+## Ouvrages
+
+- [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://repo.palkeo.com/algo/information-retrieval/Data%20mining%20and%20analysis.pdf)
+- [Data Mining: Concepts and Techniques](http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf)
+- [Bibliographie libre sur l'analyse de données](https://www.dataonfocus.com/21-free-data-mining-books/)
+- [Autre bibliographie libre](https://www.kdnuggets.com/2014/04/9-free-books-learning-data-mining-data-analysis.html)
