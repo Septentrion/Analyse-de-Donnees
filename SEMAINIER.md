@@ -1,16 +1,61 @@
 # Planning provisoire
 
-Semaine | Thématique | Description | Intervenants
---- | --- | --- | ---
-1 | Introduction à Python, algorithmique de base | |
-2 | Introduction à SQL | |
-3 | Algèbre de base, statistiques descriptives, probabilités | | AL
-4 | Introduction à la collecte des données | Construction d'un modèle
-5 | Préparation et traitement des données | Utilisation de R pour analyser, évaluer et visualiser les jeux de données
-6 | Atelier | Travaux pratiques sur des jeuxde données | YI, AL, MC
-7 | Algorithmique avancée (graphes) | Navigation dans les graphes, bases de données graphes pour les données en masse
-8 | Statistiques inférentielles |
-9 | Exploration de données |
-10 | Analye de données | Initiation aux algorithmes d'apprentissage : cartes de Kohonen, régression logistique, random forests, ... Exercices à partir d'implémentations en Python | AL
-11 | Analyse de données | Introduction aux réseaux de neurones. Expérimentations ave Tensorflow (Python)
-12-13 | Projet
+## Module 0 : Introduction à l'analyse de données
+
+
+## Module 1 : Python (2 semaines)
+
+### Rappel des bases de Python
+
+- fonctions / lambdas
+- expressions régulières
+- itérateurs / générateurs
+- la bibliothèque standard de Python
+- Les bonnes pratiques(PEP8, PEP20)
+
+### La programmation objet avec Python
+
+- classes
+- méthodes spéciales
+
+### Programmation fonctionnelle en Python
+
+- fonctions de second ordre : map, filter, reduce
+- liste en intension
+- immutabilité
+- pipelines
+- décorateurs
+
+### La bibliothèque standard
+
+### Les bibliothèques scientifiques
+
+- Numpy
+- Pandas
+
+## Module 2 : Statistiques descrptives avec Python (1 semaine)
+
+## Module 3 : Projet 1 (2 semaines)
+
+- Collecte de données
+- Nettoyage des données
+- Bases de données : modèles entité/relation
+- Données hétérogènes
+- Introduxtion aux ETL
+- Analyse des données
+- Visualisation
+
+## Module 4 : Projet 2 (2 semaines)
+
+- Fouille de données : ElasticSearch
+-
+
+## Module 5 : Projet 3 (2 semaines)
+
+- Introduction à l'analyse statistique inférentielle
+- Introduxtion aux algorithmes d'Intelligence Artificielle
+-
+
+## Module 6 : Projet personnel (2 semaines)
+
+## Finale : Présentation des projets
